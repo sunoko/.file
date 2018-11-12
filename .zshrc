@@ -50,3 +50,4 @@ export NODEBREW_HOME
 export NODEBREW_ROOT=/usr/local/var/nodebrew
 export PATH=$PATH:$NODEBREW_HOME/bin
 export GOPATH=/Users/kazukichinone/gocode
+
